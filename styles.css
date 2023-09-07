@@ -18,7 +18,7 @@
 
 .scrolling-images {
     display: flex;
-    animation: scrollImages 3s linear infinite; /* Change the animation duration as needed */
+    animation: scrollImages 5s linear infinite; /* Change the animation duration as needed */
 }
 
 .screenshot {
